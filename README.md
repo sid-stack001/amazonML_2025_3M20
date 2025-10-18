@@ -1,8 +1,8 @@
 # ML Challenge 2025: Smart Product Pricing Solution
 
-**Team Name: 3M20**
-**Team Members: Siddharth Verma, JVS Chandradithya, A Dheerak Kumar**
-**Submission Date:** October 13, 2025
+**Team Name: 3M20** \
+**Team Members: Siddharth Verma, JVS Chandradithya, A Dheerak Kumar** \
+**Submission Date:** October 13, 2025 \
 
 This project implements a **multimodal price prediction model** combining:
 
