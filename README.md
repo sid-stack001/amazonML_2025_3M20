@@ -42,7 +42,7 @@ The goal is to predict product prices accurately using all available modalities.
 ## Training Process
 
 - **Dataset**: CSV with `catalog_content`, `price`, and `image` info.
-- **Loss Function**: SMAPE (Symmetric Mean Absolute Percentage Error) [modified]]
+- **Loss Function**: SMAPE (Symmetric Mean Absolute Percentage Error) [modified]
 - **Optimizer**: AdamW
 - **Scheduler**: Linear warmup schedule
 - **Batch Size**: Configurable (default 16)
@@ -77,7 +77,7 @@ The goal is to predict product prices accurately using all available modalities.
 
 ## Notes
 
-- GithUb link - https://github.com/sid-stack001/amazonML_2025_3M20
+- GitHub link - https://github.com/sid-stack001/amazonML_2025_3M20
 - Missing images are replaced with blank white images.
 - Model combines **text, image, and numeric modalities** for robust prediction.
 - SMAPE ensures relative error is penalized appropriately, useful for price prediction.
