@@ -74,6 +74,8 @@ The goal is to predict product prices accurately using all available modalities.
    - Outputs are clipped to positive values and saved as CSV with `[sample_id, price]`.
 
 ---
+<img width="989" height="1189" alt="image" src="https://github.com/user-attachments/assets/8de9c501-da06-45ad-9fa0-58c83f034c02" />
+<img width="794" height="1600" alt="image" src="https://github.com/user-attachments/assets/d53bd82f-2538-41a7-8367-8703da320c2b" />
 
 ## Notes
 
