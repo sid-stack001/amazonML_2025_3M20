@@ -74,10 +74,10 @@ The goal is to predict product prices accurately using all available modalities.
    - Outputs are clipped to positive values and saved as CSV with `[sample_id, price]`.
 
 ---
-##EDA: Unigram Frequency Analysis of Bullet Points
+## EDA: Unigram Frequency Analysis of Bullet Points
 <img width="794" height="1600" alt="image" src="https://github.com/user-attachments/assets/559f8d70-2074-4a40-aff1-4bd1c7d43763" />
 
-##EDA: Bigram Frequency Analysis of Bullet Points
+## EDA: Bigram Frequency Analysis of Bullet Points
 <img width="989" height="1189" alt="image" src="https://github.com/user-attachments/assets/075fe409-c3d2-480b-80ee-3097dddfe53c" />
 
 
